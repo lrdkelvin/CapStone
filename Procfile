@@ -1,1 +1,1 @@
-web: voila --port=$PORT --no-browser jup.ipynb
+web: voila --port=$PORT --no-browser Jup.ipynb
