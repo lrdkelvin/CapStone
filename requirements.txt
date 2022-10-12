@@ -1,4 +1,6 @@
 anyio==3.6.1
+setuptools==59.8.0
+numpy==1.19.2
 argon2-cffi==21.3.0
 argon2-cffi-bindings==21.2.0
 attrs==22.1.0
@@ -28,7 +30,6 @@ nbclient==0.5.13
 nbconvert==6.5.4
 nbformat==5.7.0
 nest-asyncio==1.5.6
-numpy==1.22.3
 openpyxl==3.0.9
 packaging==21.3
 pandas==1.4.1
