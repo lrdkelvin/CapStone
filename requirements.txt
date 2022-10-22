@@ -1,6 +1,6 @@
 anyio==3.6.1
 setuptools==59.8.0
-numpy==1.19.2
+numpy
 argon2-cffi==21.3.0
 argon2-cffi-bindings==21.2.0
 attrs==22.1.0
