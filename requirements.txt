@@ -23,6 +23,7 @@ jsonschema==4.16.0
 jupyter-core==4.11.1
 jupyter-server==1.21.0
 jupyter_client==7.4.2
+jupyter_contrib_nbextensions
 jupyterlab-pygments==0.2.2
 jupyterlab_server==2.15.2
 lxml==4.9.1
